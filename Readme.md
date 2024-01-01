@@ -1,1 +1,1 @@
-Pet project 'Six cities' clear react/redux/thunk
+Pet project 'Six cities' react/redux/thunk
